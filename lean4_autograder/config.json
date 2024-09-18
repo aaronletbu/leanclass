@@ -1,5 +1,5 @@
 {
-    "public_repo": "TristanLee187/leanclass",
-    "assignment_path": "Assignments/hw8.lean",
-    "autograder_repo": "TristanLee187/leanclass"
+    "public_repo": "aaronletbu/leanclass",
+    "assignment_path": "aaronletbu/leanclass/assignments/",
+    "autograder_repo": "aaronletbu/leanclass/lean4_autograder"
 }
