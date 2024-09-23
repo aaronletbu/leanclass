@@ -1,5 +1,5 @@
 {
     "public_repo": "aaronletbu/leanclass",
-    "assignment_path": "assignments/homework_3_template.lean",
+    "assignment_path": "assignments/homework_3_solutions.lean",
     "autograder_repo": "aaronletbu/leanclass"
 }
