@@ -1,5 +1,5 @@
 {
-    "public_repo": "https://github.com/aaronletbu/leanclass/tree/main",
-    "assignment_path": "https://github.com/aaronletbu/leanclass/tree/main/assignments",
-    "autograder_repo": "https://github.com/aaronletbu/leanclass/blob/main/lean4_autograder"
+    "public_repo": "aaronletbu/leanclass/tree/main",
+    "assignment_path": "aaronletbu/leanclass/tree/main/assignments",
+    "autograder_repo": "aaronletbu/leanclass/blob/main/lean4_autograder"
 }
